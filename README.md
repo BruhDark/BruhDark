@@ -9,7 +9,7 @@ Get to know the best album on history 👉 [Click Here](https://open.spotify.com
 
 
 ## 
-[![Discord](https://lanyard.cnrad.dev/api/449245847767482379)](https://discord..com/users/449245847767482379) 
+[![Discord](https://lanyard.cnrad.dev/api/449245847767482379)](https://discord.com/users/449245847767482379) 
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
