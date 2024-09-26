@@ -1,3 +1,4 @@
+## 👋 I'm Dark
 Code here, code there. Mainly using Python. Love Taylor Swift. 
 An Information Systems Engineer at some point in the future.
 
