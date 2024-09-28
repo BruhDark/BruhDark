@@ -1,4 +1,8 @@
-## 👋 I'm Dark
+## 👋 I'm Dark 
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/code-it-break-it-fix-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/pro-crastinatior.svg)](https://forthebadge.com)
+
 Code here, code there. Mainly using Python. Love Taylor Swift. 
 An Information Systems Engineer at some point in the future.
 
@@ -12,14 +16,12 @@ Get to know the best album on history 👉 [Click Here](https://open.spotify.com
 [![Discord](https://lanyard.cnrad.dev/api/449245847767482379)](https://discord.com/users/449245847767482379) 
 
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BruhDark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BruhDark&theme=dark&hide_border=true&show_icons=true&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/BruhDark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BruhDark&theme=dark&layout=donut&hide_border=true&langs_count=8&card_width=320" />
 </a>
 
 ##
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarkPy&theme=dark&hide_border=true&layout=compact&range=all_time&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarkPy&theme=dark&hide_border=true&layout=compact&range=all_time&show_icons=true)](https://github.com/BruhDark)
